@@ -10,15 +10,6 @@ config_version=5
 
 [application]
 
-config/name="LaLoupe"
-run/main_scene="uid://dlkv8ncpf8x7h"
+config/name="LaLoupse"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
-
-[display]
-
-window/canvas_textures/default_texture_filter=1
-
-[rendering]
-
-textures/canvas_textures/default_texture_filter=0
